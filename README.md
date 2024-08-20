@@ -1,3 +1,3 @@
-# AIMLDCBootcamp
+# MachineLearningAndDataScience
 
-## Artificial intelligence booocamp - Machine learning and Data Science in Jupyter Notebook (sckikit-learn) and Google Colab (tensorflow)
+## Artificial intelligence bootcamp - Machine learning and Data Science in Jupyter Notebook (sckikit-learn) and Google Colab (tensorflow)
